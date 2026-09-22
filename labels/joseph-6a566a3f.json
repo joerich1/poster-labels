@@ -2,9 +2,9 @@
  "labeller": "Joseph",
  "client_id": "6a566a3f",
  "page": "v3",
- "position": 0,
+ "position": 1,
  "posters_done": 1,
- "received_utc": "2026-09-22T22:40:06.533Z",
+ "received_utc": "2026-09-22T22:43:07.862Z",
  "rows": [
   [
    "856",
@@ -29,6 +29,30 @@
    "other",
    false,
    "2026-09-22T22:38:58.273Z"
+  ],
+  [
+   "24",
+   1,
+   "on",
+   null,
+   false,
+   "2026-09-22T22:40:14.204Z"
+  ],
+  [
+   "24",
+   2,
+   "no",
+   null,
+   false,
+   "2026-09-22T22:40:19.230Z"
+  ],
+  [
+   "24",
+   3,
+   "no",
+   null,
+   false,
+   "2026-09-22T22:40:21.150Z"
   ]
  ]
 }

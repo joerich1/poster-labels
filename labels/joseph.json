@@ -1,9 +1,9 @@
 {
  "labeller": "Joseph",
  "page": "v5",
- "position": 0,
- "posters_done": 1,
- "received_utc": "2026-09-22T22:57:37.653Z",
+ "position": 1,
+ "posters_done": 2,
+ "received_utc": "2026-09-22T22:57:54.220Z",
  "rows": [
   [
    "856",
@@ -28,6 +28,30 @@
    null,
    false,
    "2026-09-22T22:57:37.509Z"
+  ],
+  [
+   "24",
+   1,
+   "on",
+   0,
+   false,
+   "2026-09-22T22:57:49.822Z"
+  ],
+  [
+   "24",
+   2,
+   "no",
+   null,
+   false,
+   "2026-09-22T22:57:52.501Z"
+  ],
+  [
+   "24",
+   3,
+   "no",
+   null,
+   false,
+   "2026-09-22T22:57:54.082Z"
   ]
  ]
 }

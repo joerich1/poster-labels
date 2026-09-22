@@ -1,0 +1,34 @@
+{
+ "labeller": "Joseph",
+ "client_id": "6a566a3f",
+ "page": "v3",
+ "position": 0,
+ "posters_done": 1,
+ "received_utc": "2026-09-22T22:40:06.533Z",
+ "rows": [
+  [
+   "856",
+   1,
+   "on",
+   "other",
+   false,
+   "2026-09-22T22:38:49.686Z"
+  ],
+  [
+   "856",
+   2,
+   "no",
+   "notface",
+   false,
+   "2026-09-22T22:38:54.905Z"
+  ],
+  [
+   "856",
+   3,
+   "no",
+   "other",
+   false,
+   "2026-09-22T22:38:58.273Z"
+  ]
+ ]
+}

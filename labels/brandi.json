@@ -1,9 +1,9 @@
 {
  "labeller": "Brandi",
  "page": "v5",
- "position": 98,
- "posters_done": 99,
- "received_utc": "2026-09-25T14:34:14.580Z",
+ "position": 99,
+ "posters_done": 100,
+ "received_utc": "2026-09-25T14:34:20.019Z",
  "rows": [
   [
    "856",
@@ -2356,6 +2356,30 @@
    null,
    false,
    "2026-09-25T14:34:15.207Z"
+  ],
+  [
+   "861",
+   1,
+   "nobox",
+   null,
+   false,
+   "2026-09-25T14:34:18.365Z"
+  ],
+  [
+   "861",
+   2,
+   "no",
+   null,
+   false,
+   "2026-09-25T14:34:19.858Z"
+  ],
+  [
+   "861",
+   3,
+   "no",
+   null,
+   false,
+   "2026-09-25T14:34:20.585Z"
   ]
  ]
 }

@@ -2,8 +2,8 @@
  "labeller": "Snehal",
  "page": "v5",
  "position": 0,
- "posters_done": 0,
- "received_utc": "2026-09-25T18:45:32.216Z",
+ "posters_done": 1,
+ "received_utc": "2026-09-25T18:45:38.786Z",
  "rows": [
   [
    "856",
@@ -20,6 +20,14 @@
    null,
    false,
    "2026-09-25T18:45:23.843Z"
+  ],
+  [
+   "856",
+   3,
+   "no",
+   null,
+   false,
+   "2026-09-25T18:45:38.646Z"
   ]
  ]
 }

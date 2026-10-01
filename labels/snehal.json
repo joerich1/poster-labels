@@ -1,9 +1,9 @@
 {
  "labeller": "Snehal",
  "page": "v5",
- "position": 34,
- "posters_done": 35,
- "received_utc": "2026-10-01T14:41:05.803Z",
+ "position": 35,
+ "posters_done": 36,
+ "received_utc": "2026-10-01T14:41:18.591Z",
  "rows": [
   [
    "856",
@@ -836,6 +836,30 @@
    null,
    false,
    "2026-10-01T14:41:05.723Z"
+  ],
+  [
+   "664",
+   1,
+   "ct",
+   null,
+   false,
+   "2026-10-01T14:41:10.831Z"
+  ],
+  [
+   "664",
+   2,
+   "ct",
+   null,
+   false,
+   "2026-10-01T14:41:17.068Z"
+  ],
+  [
+   "664",
+   3,
+   "ct",
+   null,
+   false,
+   "2026-10-01T14:41:18.485Z"
   ]
  ]
 }
